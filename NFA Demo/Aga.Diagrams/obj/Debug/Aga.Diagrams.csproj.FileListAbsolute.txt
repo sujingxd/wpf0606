@@ -1,0 +1,72 @@
+D:\wpf\NFA Demo\Aga.Diagrams\bin\Debug\Aga.Diagrams.dll
+D:\wpf\NFA Demo\Aga.Diagrams\bin\Debug\Aga.Diagrams.pdb
+D:\wpf\NFA Demo\Aga.Diagrams\obj\Debug\Aga.Diagrams.csprojResolveAssemblyReference.cache
+D:\wpf\NFA Demo\Aga.Diagrams\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\wpf\NFA Demo\Aga.Diagrams\obj\Debug\Aga.Diagrams_MarkupCompile.cache
+D:\wpf\NFA Demo\Aga.Diagrams\obj\Debug\Aga.Diagrams_MarkupCompile.lref
+D:\wpf\NFA Demo\Aga.Diagrams\obj\Debug\Themes\RelinkControl.baml
+D:\wpf\NFA Demo\Aga.Diagrams\obj\Debug\Themes\SelectionFrame.baml
+D:\wpf\NFA Demo\Aga.Diagrams\obj\Debug\Themes\RectPort.baml
+D:\wpf\NFA Demo\Aga.Diagrams\obj\Debug\Themes\Node.baml
+D:\wpf\NFA Demo\Aga.Diagrams\obj\Debug\Themes\LinkBase.baml
+D:\wpf\NFA Demo\Aga.Diagrams\obj\Debug\Themes\DiagramView.baml
+D:\wpf\NFA Demo\Aga.Diagrams\obj\Debug\Themes\EllipsePort.baml
+D:\wpf\NFA Demo\Aga.Diagrams\obj\Debug\Themes\Shared.baml
+D:\wpf\NFA Demo\Aga.Diagrams\obj\Debug\Themes\Generic.baml
+D:\wpf\NFA Demo\Aga.Diagrams\obj\Debug\Aga.Diagrams.g.resources
+D:\wpf\NFA Demo\Aga.Diagrams\obj\Debug\Aga.Diagrams.dll
+D:\wpf\NFA Demo\Aga.Diagrams\obj\Debug\Aga.Diagrams.pdb
+D:\Work\wpf\NFA Demo\Aga.Diagrams\bin\Debug\Aga.Diagrams.dll
+D:\Work\wpf\NFA Demo\Aga.Diagrams\bin\Debug\Aga.Diagrams.pdb
+D:\Work\wpf\NFA Demo\Aga.Diagrams\obj\Debug\Aga.Diagrams.csprojResolveAssemblyReference.cache
+D:\Work\wpf\NFA Demo\Aga.Diagrams\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Work\wpf\NFA Demo\Aga.Diagrams\obj\Debug\Aga.Diagrams_MarkupCompile.cache
+D:\Work\wpf\NFA Demo\Aga.Diagrams\obj\Debug\Aga.Diagrams_MarkupCompile.lref
+D:\Work\wpf\NFA Demo\Aga.Diagrams\obj\Debug\Themes\RelinkControl.baml
+D:\Work\wpf\NFA Demo\Aga.Diagrams\obj\Debug\Themes\SelectionFrame.baml
+D:\Work\wpf\NFA Demo\Aga.Diagrams\obj\Debug\Themes\RectPort.baml
+D:\Work\wpf\NFA Demo\Aga.Diagrams\obj\Debug\Themes\Node.baml
+D:\Work\wpf\NFA Demo\Aga.Diagrams\obj\Debug\Themes\LinkBase.baml
+D:\Work\wpf\NFA Demo\Aga.Diagrams\obj\Debug\Themes\DiagramView.baml
+D:\Work\wpf\NFA Demo\Aga.Diagrams\obj\Debug\Themes\EllipsePort.baml
+D:\Work\wpf\NFA Demo\Aga.Diagrams\obj\Debug\Themes\Shared.baml
+D:\Work\wpf\NFA Demo\Aga.Diagrams\obj\Debug\Themes\Generic.baml
+D:\Work\wpf\NFA Demo\Aga.Diagrams\obj\Debug\Aga.Diagrams.g.resources
+D:\Work\wpf\NFA Demo\Aga.Diagrams\obj\Debug\Aga.Diagrams.dll
+D:\Work\wpf\NFA Demo\Aga.Diagrams\obj\Debug\Aga.Diagrams.pdb
+C:\Users\sujingxd\Desktop\NFA Demo-0606\NFA Demo\Aga.Diagrams\bin\Debug\Aga.Diagrams.dll
+C:\Users\sujingxd\Desktop\NFA Demo-0606\NFA Demo\Aga.Diagrams\bin\Debug\Aga.Diagrams.pdb
+C:\Users\sujingxd\Desktop\NFA Demo-0606\NFA Demo\Aga.Diagrams\obj\Debug\Aga.Diagrams.csprojResolveAssemblyReference.cache
+C:\Users\sujingxd\Desktop\NFA Demo-0606\NFA Demo\Aga.Diagrams\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\sujingxd\Desktop\NFA Demo-0606\NFA Demo\Aga.Diagrams\obj\Debug\Aga.Diagrams_MarkupCompile.cache
+C:\Users\sujingxd\Desktop\NFA Demo-0606\NFA Demo\Aga.Diagrams\obj\Debug\Aga.Diagrams_MarkupCompile.lref
+C:\Users\sujingxd\Desktop\NFA Demo-0606\NFA Demo\Aga.Diagrams\obj\Debug\Themes\RelinkControl.baml
+C:\Users\sujingxd\Desktop\NFA Demo-0606\NFA Demo\Aga.Diagrams\obj\Debug\Themes\SelectionFrame.baml
+C:\Users\sujingxd\Desktop\NFA Demo-0606\NFA Demo\Aga.Diagrams\obj\Debug\Themes\RectPort.baml
+C:\Users\sujingxd\Desktop\NFA Demo-0606\NFA Demo\Aga.Diagrams\obj\Debug\Themes\Node.baml
+C:\Users\sujingxd\Desktop\NFA Demo-0606\NFA Demo\Aga.Diagrams\obj\Debug\Themes\LinkBase.baml
+C:\Users\sujingxd\Desktop\NFA Demo-0606\NFA Demo\Aga.Diagrams\obj\Debug\Themes\DiagramView.baml
+C:\Users\sujingxd\Desktop\NFA Demo-0606\NFA Demo\Aga.Diagrams\obj\Debug\Themes\EllipsePort.baml
+C:\Users\sujingxd\Desktop\NFA Demo-0606\NFA Demo\Aga.Diagrams\obj\Debug\Themes\Shared.baml
+C:\Users\sujingxd\Desktop\NFA Demo-0606\NFA Demo\Aga.Diagrams\obj\Debug\Themes\Generic.baml
+C:\Users\sujingxd\Desktop\NFA Demo-0606\NFA Demo\Aga.Diagrams\obj\Debug\Aga.Diagrams.g.resources
+C:\Users\sujingxd\Desktop\NFA Demo-0606\NFA Demo\Aga.Diagrams\obj\Debug\Aga.Diagrams.dll
+C:\Users\sujingxd\Desktop\NFA Demo-0606\NFA Demo\Aga.Diagrams\obj\Debug\Aga.Diagrams.pdb
+C:\Users\sujingxd\Desktop\NFA Demo-0606 -new\NFA Demo\Aga.Diagrams\bin\Debug\Aga.Diagrams.dll
+C:\Users\sujingxd\Desktop\NFA Demo-0606 -new\NFA Demo\Aga.Diagrams\bin\Debug\Aga.Diagrams.pdb
+C:\Users\sujingxd\Desktop\NFA Demo-0606 -new\NFA Demo\Aga.Diagrams\obj\Debug\Aga.Diagrams.csprojResolveAssemblyReference.cache
+C:\Users\sujingxd\Desktop\NFA Demo-0606 -new\NFA Demo\Aga.Diagrams\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\sujingxd\Desktop\NFA Demo-0606 -new\NFA Demo\Aga.Diagrams\obj\Debug\Aga.Diagrams_MarkupCompile.cache
+C:\Users\sujingxd\Desktop\NFA Demo-0606 -new\NFA Demo\Aga.Diagrams\obj\Debug\Aga.Diagrams_MarkupCompile.lref
+C:\Users\sujingxd\Desktop\NFA Demo-0606 -new\NFA Demo\Aga.Diagrams\obj\Debug\Themes\RelinkControl.baml
+C:\Users\sujingxd\Desktop\NFA Demo-0606 -new\NFA Demo\Aga.Diagrams\obj\Debug\Themes\SelectionFrame.baml
+C:\Users\sujingxd\Desktop\NFA Demo-0606 -new\NFA Demo\Aga.Diagrams\obj\Debug\Themes\RectPort.baml
+C:\Users\sujingxd\Desktop\NFA Demo-0606 -new\NFA Demo\Aga.Diagrams\obj\Debug\Themes\Node.baml
+C:\Users\sujingxd\Desktop\NFA Demo-0606 -new\NFA Demo\Aga.Diagrams\obj\Debug\Themes\LinkBase.baml
+C:\Users\sujingxd\Desktop\NFA Demo-0606 -new\NFA Demo\Aga.Diagrams\obj\Debug\Themes\DiagramView.baml
+C:\Users\sujingxd\Desktop\NFA Demo-0606 -new\NFA Demo\Aga.Diagrams\obj\Debug\Themes\EllipsePort.baml
+C:\Users\sujingxd\Desktop\NFA Demo-0606 -new\NFA Demo\Aga.Diagrams\obj\Debug\Themes\Shared.baml
+C:\Users\sujingxd\Desktop\NFA Demo-0606 -new\NFA Demo\Aga.Diagrams\obj\Debug\Themes\Generic.baml
+C:\Users\sujingxd\Desktop\NFA Demo-0606 -new\NFA Demo\Aga.Diagrams\obj\Debug\Aga.Diagrams.g.resources
+C:\Users\sujingxd\Desktop\NFA Demo-0606 -new\NFA Demo\Aga.Diagrams\obj\Debug\Aga.Diagrams.dll
+C:\Users\sujingxd\Desktop\NFA Demo-0606 -new\NFA Demo\Aga.Diagrams\obj\Debug\Aga.Diagrams.pdb

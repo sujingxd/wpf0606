@@ -1,0 +1,92 @@
+D:\wpf\NFA Demo\TestApp\bin\Debug\TestApp.exe
+D:\wpf\NFA Demo\TestApp\bin\Debug\TestApp.pdb
+D:\wpf\NFA Demo\TestApp\bin\Debug\Aga.Diagrams.dll
+D:\wpf\NFA Demo\TestApp\bin\Debug\Aga.Diagrams.pdb
+D:\wpf\NFA Demo\TestApp\obj\Debug\TestApp.csprojResolveAssemblyReference.cache
+D:\wpf\NFA Demo\TestApp\obj\Debug\MainWindow.baml
+D:\wpf\NFA Demo\TestApp\obj\Debug\App.baml
+D:\wpf\NFA Demo\TestApp\obj\Debug\Flowchart\FlowchartEditor.g.cs
+D:\wpf\NFA Demo\TestApp\obj\Debug\PropertiesView.g.cs
+D:\wpf\NFA Demo\TestApp\obj\Debug\ShapesExample\ShapesEditor.g.cs
+D:\wpf\NFA Demo\TestApp\obj\Debug\MainWindow.g.cs
+D:\wpf\NFA Demo\TestApp\obj\Debug\App.g.cs
+D:\wpf\NFA Demo\TestApp\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\wpf\NFA Demo\TestApp\obj\Debug\TestApp_MarkupCompile.cache
+D:\wpf\NFA Demo\TestApp\obj\Debug\TestApp_MarkupCompile.lref
+D:\wpf\NFA Demo\TestApp\obj\Debug\Flowchart\FlowchartEditor.baml
+D:\wpf\NFA Demo\TestApp\obj\Debug\PropertiesView.baml
+D:\wpf\NFA Demo\TestApp\obj\Debug\ShapesExample\ShapesEditor.baml
+D:\wpf\NFA Demo\TestApp\obj\Debug\TestApp.g.resources
+D:\wpf\NFA Demo\TestApp\obj\Debug\TestApp.Properties.Resources.resources
+D:\wpf\NFA Demo\TestApp\obj\Debug\TestApp.csproj.GenerateResource.Cache
+D:\wpf\NFA Demo\TestApp\obj\Debug\TestApp.exe
+D:\wpf\NFA Demo\TestApp\obj\Debug\TestApp.pdb
+D:\Work\wpf\NFA Demo\TestApp\obj\Debug\TestApp.exe
+D:\Work\wpf\NFA Demo\TestApp\obj\Debug\TestApp.pdb
+D:\Work\wpf\NFA Demo\TestApp\bin\Debug\TestApp.exe
+D:\Work\wpf\NFA Demo\TestApp\bin\Debug\TestApp.pdb
+D:\Work\wpf\NFA Demo\TestApp\bin\Debug\Aga.Diagrams.dll
+D:\Work\wpf\NFA Demo\TestApp\bin\Debug\Aga.Diagrams.pdb
+D:\Work\wpf\NFA Demo\TestApp\obj\Debug\TestApp.csprojResolveAssemblyReference.cache
+D:\Work\wpf\NFA Demo\TestApp\obj\Debug\MainWindow.baml
+D:\Work\wpf\NFA Demo\TestApp\obj\Debug\App.baml
+D:\Work\wpf\NFA Demo\TestApp\obj\Debug\Flowchart\FlowchartEditor.g.cs
+D:\Work\wpf\NFA Demo\TestApp\obj\Debug\PropertiesView.g.cs
+D:\Work\wpf\NFA Demo\TestApp\obj\Debug\ShapesExample\ShapesEditor.g.cs
+D:\Work\wpf\NFA Demo\TestApp\obj\Debug\MainWindow.g.cs
+D:\Work\wpf\NFA Demo\TestApp\obj\Debug\App.g.cs
+D:\Work\wpf\NFA Demo\TestApp\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Work\wpf\NFA Demo\TestApp\obj\Debug\TestApp_MarkupCompile.cache
+D:\Work\wpf\NFA Demo\TestApp\obj\Debug\TestApp_MarkupCompile.lref
+D:\Work\wpf\NFA Demo\TestApp\obj\Debug\Flowchart\FlowchartEditor.baml
+D:\Work\wpf\NFA Demo\TestApp\obj\Debug\PropertiesView.baml
+D:\Work\wpf\NFA Demo\TestApp\obj\Debug\ShapesExample\ShapesEditor.baml
+D:\Work\wpf\NFA Demo\TestApp\obj\Debug\TestApp.g.resources
+D:\Work\wpf\NFA Demo\TestApp\obj\Debug\TestApp.Properties.Resources.resources
+D:\Work\wpf\NFA Demo\TestApp\obj\Debug\TestApp.csproj.GenerateResource.Cache
+C:\Users\sujingxd\Desktop\NFA Demo-0606\NFA Demo\TestApp\obj\Debug\TestApp.exe
+C:\Users\sujingxd\Desktop\NFA Demo-0606\NFA Demo\TestApp\obj\Debug\TestApp.pdb
+C:\Users\sujingxd\Desktop\NFA Demo-0606\NFA Demo\TestApp\bin\Debug\TestApp.exe
+C:\Users\sujingxd\Desktop\NFA Demo-0606\NFA Demo\TestApp\bin\Debug\TestApp.pdb
+C:\Users\sujingxd\Desktop\NFA Demo-0606\NFA Demo\TestApp\bin\Debug\Aga.Diagrams.dll
+C:\Users\sujingxd\Desktop\NFA Demo-0606\NFA Demo\TestApp\bin\Debug\Aga.Diagrams.pdb
+C:\Users\sujingxd\Desktop\NFA Demo-0606\NFA Demo\TestApp\obj\Debug\TestApp.csprojResolveAssemblyReference.cache
+C:\Users\sujingxd\Desktop\NFA Demo-0606\NFA Demo\TestApp\obj\Debug\MainWindow.baml
+C:\Users\sujingxd\Desktop\NFA Demo-0606\NFA Demo\TestApp\obj\Debug\App.baml
+C:\Users\sujingxd\Desktop\NFA Demo-0606\NFA Demo\TestApp\obj\Debug\Flowchart\FlowchartEditor.g.cs
+C:\Users\sujingxd\Desktop\NFA Demo-0606\NFA Demo\TestApp\obj\Debug\PropertiesView.g.cs
+C:\Users\sujingxd\Desktop\NFA Demo-0606\NFA Demo\TestApp\obj\Debug\ShapesExample\ShapesEditor.g.cs
+C:\Users\sujingxd\Desktop\NFA Demo-0606\NFA Demo\TestApp\obj\Debug\MainWindow.g.cs
+C:\Users\sujingxd\Desktop\NFA Demo-0606\NFA Demo\TestApp\obj\Debug\App.g.cs
+C:\Users\sujingxd\Desktop\NFA Demo-0606\NFA Demo\TestApp\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\sujingxd\Desktop\NFA Demo-0606\NFA Demo\TestApp\obj\Debug\TestApp_MarkupCompile.cache
+C:\Users\sujingxd\Desktop\NFA Demo-0606\NFA Demo\TestApp\obj\Debug\TestApp_MarkupCompile.lref
+C:\Users\sujingxd\Desktop\NFA Demo-0606\NFA Demo\TestApp\obj\Debug\Flowchart\FlowchartEditor.baml
+C:\Users\sujingxd\Desktop\NFA Demo-0606\NFA Demo\TestApp\obj\Debug\PropertiesView.baml
+C:\Users\sujingxd\Desktop\NFA Demo-0606\NFA Demo\TestApp\obj\Debug\ShapesExample\ShapesEditor.baml
+C:\Users\sujingxd\Desktop\NFA Demo-0606\NFA Demo\TestApp\obj\Debug\TestApp.g.resources
+C:\Users\sujingxd\Desktop\NFA Demo-0606\NFA Demo\TestApp\obj\Debug\TestApp.Properties.Resources.resources
+C:\Users\sujingxd\Desktop\NFA Demo-0606\NFA Demo\TestApp\obj\Debug\TestApp.csproj.GenerateResource.Cache
+C:\Users\sujingxd\Desktop\NFA Demo-0606 -new\NFA Demo\TestApp\obj\Debug\TestApp.exe
+C:\Users\sujingxd\Desktop\NFA Demo-0606 -new\NFA Demo\TestApp\obj\Debug\TestApp.pdb
+C:\Users\sujingxd\Desktop\NFA Demo-0606 -new\NFA Demo\TestApp\bin\Debug\TestApp.exe
+C:\Users\sujingxd\Desktop\NFA Demo-0606 -new\NFA Demo\TestApp\bin\Debug\TestApp.pdb
+C:\Users\sujingxd\Desktop\NFA Demo-0606 -new\NFA Demo\TestApp\bin\Debug\Aga.Diagrams.dll
+C:\Users\sujingxd\Desktop\NFA Demo-0606 -new\NFA Demo\TestApp\bin\Debug\Aga.Diagrams.pdb
+C:\Users\sujingxd\Desktop\NFA Demo-0606 -new\NFA Demo\TestApp\obj\Debug\TestApp.csprojResolveAssemblyReference.cache
+C:\Users\sujingxd\Desktop\NFA Demo-0606 -new\NFA Demo\TestApp\obj\Debug\MainWindow.baml
+C:\Users\sujingxd\Desktop\NFA Demo-0606 -new\NFA Demo\TestApp\obj\Debug\App.baml
+C:\Users\sujingxd\Desktop\NFA Demo-0606 -new\NFA Demo\TestApp\obj\Debug\Flowchart\FlowchartEditor.g.cs
+C:\Users\sujingxd\Desktop\NFA Demo-0606 -new\NFA Demo\TestApp\obj\Debug\PropertiesView.g.cs
+C:\Users\sujingxd\Desktop\NFA Demo-0606 -new\NFA Demo\TestApp\obj\Debug\ShapesExample\ShapesEditor.g.cs
+C:\Users\sujingxd\Desktop\NFA Demo-0606 -new\NFA Demo\TestApp\obj\Debug\MainWindow.g.cs
+C:\Users\sujingxd\Desktop\NFA Demo-0606 -new\NFA Demo\TestApp\obj\Debug\App.g.cs
+C:\Users\sujingxd\Desktop\NFA Demo-0606 -new\NFA Demo\TestApp\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\sujingxd\Desktop\NFA Demo-0606 -new\NFA Demo\TestApp\obj\Debug\TestApp_MarkupCompile.cache
+C:\Users\sujingxd\Desktop\NFA Demo-0606 -new\NFA Demo\TestApp\obj\Debug\TestApp_MarkupCompile.lref
+C:\Users\sujingxd\Desktop\NFA Demo-0606 -new\NFA Demo\TestApp\obj\Debug\Flowchart\FlowchartEditor.baml
+C:\Users\sujingxd\Desktop\NFA Demo-0606 -new\NFA Demo\TestApp\obj\Debug\PropertiesView.baml
+C:\Users\sujingxd\Desktop\NFA Demo-0606 -new\NFA Demo\TestApp\obj\Debug\ShapesExample\ShapesEditor.baml
+C:\Users\sujingxd\Desktop\NFA Demo-0606 -new\NFA Demo\TestApp\obj\Debug\TestApp.g.resources
+C:\Users\sujingxd\Desktop\NFA Demo-0606 -new\NFA Demo\TestApp\obj\Debug\TestApp.Properties.Resources.resources
+C:\Users\sujingxd\Desktop\NFA Demo-0606 -new\NFA Demo\TestApp\obj\Debug\TestApp.csproj.GenerateResource.Cache
